@@ -1,8 +1,11 @@
-
-__pycache__/
-*.pyc
 */.api_key
 input.txt
 output.txt
 outroot.txt
 *.tmp
+
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
